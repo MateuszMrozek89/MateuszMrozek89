@@ -1,0 +1,9 @@
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\awsLambdaDynamoEmail\bin\Release\net6.0\publish\awsLambdaDynamoEmail.deps.json
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\awsLambdaDynamoEmail\bin\Release\net6.0\publish\awsLambdaDynamoEmail.runtimeconfig.json
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\awsLambdaDynamoEmail\bin\Release\net6.0\publish\awsLambdaDynamoEmail.pdb
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\awsLambdaDynamoEmail\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\awsLambdaDynamoEmail\bin\Release\net6.0\publish\Amazon.Lambda.DynamoDBEvents.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\awsLambdaDynamoEmail\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\awsLambdaDynamoEmail\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\awsLambdaDynamoEmail\bin\Release\net6.0\publish\AWSSDK.SimpleEmail.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\awsLambdaDynamoEmail\bin\Release\net6.0\publish\awsLambdaDynamoEmail.dll

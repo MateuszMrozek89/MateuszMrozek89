@@ -1,0 +1,9 @@
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\SchLambda\bin\Release\net6.0\publish\SchLambda.deps.json
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\SchLambda\bin\Release\net6.0\publish\SchLambda.runtimeconfig.json
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\SchLambda\bin\Release\net6.0\publish\SchLambda.pdb
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\SchLambda\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\SchLambda\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\SchLambda\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\SchLambda\bin\Release\net6.0\publish\AWSSDK.SimpleEmail.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\SchLambda\bin\Release\net6.0\publish\AWSSDK.SimpleNotificationService.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\SchLambda\bin\Release\net6.0\publish\SchLambda.dll

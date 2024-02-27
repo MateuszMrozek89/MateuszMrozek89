@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lWbl4Rgf+Mtdzx5y3iKejl1bCc2DT06kwAvHgydQ8xfU8PgYg/A+vUZC7IvUtGvc2a7oNKRoSW5QNiI/y+BTqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mateu\\OneDrive\\Pulpit\\Repo\\AWS\\awsLambdaDynamoEmail\\awsLambdaDynamoEmail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\amazon.lambda.dynamodbevents\\3.0.0\\amazon.lambda.dynamodbevents.3.0.0.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.0\\amazon.lambda.serialization.systemtextjson.2.4.0.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\awssdk.core\\3.7.302.8\\awssdk.core.3.7.302.8.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\awssdk.simpleemail\\3.7.300.48\\awssdk.simpleemail.3.7.300.48.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.26\\microsoft.netcore.app.crossgen2.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

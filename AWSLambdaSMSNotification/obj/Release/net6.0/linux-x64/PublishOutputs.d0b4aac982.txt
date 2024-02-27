@@ -1,0 +1,10 @@
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambdaSMSNotification\bin\Release\net6.0\publish\AWSLambdaSMSNotification.deps.json
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambdaSMSNotification\bin\Release\net6.0\publish\AWSLambdaSMSNotification.runtimeconfig.json
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambdaSMSNotification\bin\Release\net6.0\publish\AWSLambdaSMSNotification.pdb
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambdaSMSNotification\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambdaSMSNotification\bin\Release\net6.0\publish\Amazon.Lambda.DynamoDBEvents.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambdaSMSNotification\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambdaSMSNotification\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambdaSMSNotification\bin\Release\net6.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambdaSMSNotification\bin\Release\net6.0\publish\AWSSDK.SimpleNotificationService.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambdaSMSNotification\bin\Release\net6.0\publish\AWSLambdaSMSNotification.dll

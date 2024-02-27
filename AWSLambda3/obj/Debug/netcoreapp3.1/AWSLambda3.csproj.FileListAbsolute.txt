@@ -1,0 +1,16 @@
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda3\bin\Debug\netcoreapp3.1\AWSLambda3.deps.json
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda3\bin\Debug\netcoreapp3.1\AWSLambda3.runtimeconfig.json
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda3\bin\Debug\netcoreapp3.1\AWSLambda3.runtimeconfig.dev.json
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda3\bin\Debug\netcoreapp3.1\AWSLambda3.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda3\bin\Debug\netcoreapp3.1\AWSLambda3.pdb
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda3\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda3\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda3\obj\Debug\netcoreapp3.1\AWSLambda3.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda3\obj\Debug\netcoreapp3.1\AWSLambda3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda3\obj\Debug\netcoreapp3.1\AWSLambda3.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda3\obj\Debug\netcoreapp3.1\AWSLambda3.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda3\obj\Debug\netcoreapp3.1\AWSLambda3.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda3\obj\Debug\netcoreapp3.1\AWSLambda3.csproj.CopyComplete
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda3\obj\Debug\netcoreapp3.1\AWSLambda3.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda3\obj\Debug\netcoreapp3.1\AWSLambda3.pdb
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda3\obj\Debug\netcoreapp3.1\AWSLambda3.genruntimeconfig.cache

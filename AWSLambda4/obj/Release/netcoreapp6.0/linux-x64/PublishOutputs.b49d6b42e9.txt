@@ -1,0 +1,6 @@
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda4\bin\Release\netcoreapp6.0\publish\AWSLambda4.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda4\bin\Release\netcoreapp6.0\publish\AWSLambda4.deps.json
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda4\bin\Release\netcoreapp6.0\publish\AWSLambda4.runtimeconfig.json
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda4\bin\Release\netcoreapp6.0\publish\AWSLambda4.pdb
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda4\bin\Release\netcoreapp6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda4\bin\Release\netcoreapp6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
