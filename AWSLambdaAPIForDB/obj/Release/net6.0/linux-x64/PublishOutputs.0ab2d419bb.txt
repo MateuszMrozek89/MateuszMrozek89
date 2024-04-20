@@ -1,8 +1,0 @@
-C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambdaAPIForDB\bin\Release\net6.0\publish\AWSLambdaAPIForDB.deps.json
-C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambdaAPIForDB\bin\Release\net6.0\publish\AWSLambdaAPIForDB.runtimeconfig.json
-C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambdaAPIForDB\bin\Release\net6.0\publish\AWSLambdaAPIForDB.pdb
-C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambdaAPIForDB\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
-C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambdaAPIForDB\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
-C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambdaAPIForDB\bin\Release\net6.0\publish\AWSSDK.Core.dll
-C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambdaAPIForDB\bin\Release\net6.0\publish\AWSSDK.DynamoDBv2.dll
-C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambdaAPIForDB\bin\Release\net6.0\publish\AWSLambdaAPIForDB.dll

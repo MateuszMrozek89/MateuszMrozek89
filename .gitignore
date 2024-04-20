@@ -1,0 +1,8 @@
+# Pliki tymczasowe Visual Studio
+*.suo
+*.user
+*.sln.docstates
+
+# Katalogi wynikowe kompilacji
+bin/
+obj/
