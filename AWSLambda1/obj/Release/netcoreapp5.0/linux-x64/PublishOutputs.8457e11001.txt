@@ -1,6 +1,0 @@
-C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda1\bin\Release\netcoreapp5.0\publish\AWSLambda1.dll
-C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda1\bin\Release\netcoreapp5.0\publish\AWSLambda1.deps.json
-C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda1\bin\Release\netcoreapp5.0\publish\AWSLambda1.runtimeconfig.json
-C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda1\bin\Release\netcoreapp5.0\publish\AWSLambda1.pdb
-C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda1\bin\Release\netcoreapp5.0\publish\Amazon.Lambda.Core.dll
-C:\Users\mateu\OneDrive\Pulpit\Repo\AWS\AWSLambda1\bin\Release\netcoreapp5.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
